@@ -12,7 +12,7 @@ Analyze Netflix’s content catalog to uncover trends by genre, rating, country 
 
 ## 🧰 Tools Used
 - Tableau Public
-- Excel / Google Sheets
+- Excel
 - Netflix Movies and TV Shows Dataset
 
 ## 🧹 Data Cleaning
